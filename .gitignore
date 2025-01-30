@@ -1,0 +1,6 @@
+# datasets (large ones)
+*.csv
+*.db
+
+# python venv
+venv
